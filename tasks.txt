@@ -1,0 +1,9 @@
+contrast the img, plot the histo , change the ranges starting from around 50 (approx range for 20)
+make a range equal to zero and keep the remaining same 
+and apply the edge detection on that 
+
+apply bluring if you are getting an adequate result
+
+otsu thresholding 
+adaptive thresholding 
+kernel documentation 
